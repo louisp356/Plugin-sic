@@ -1,0 +1,8 @@
+{
+  "modules" : { 
+    "sic"  : {
+      "description": "louis",
+      "version"    : "1.0"
+    }
+  }
+}
